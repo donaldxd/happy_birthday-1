@@ -101,5 +101,5 @@ test = ->
     root.cake.render()
     return
 
-#main()
-test()
+main()
+#test()
