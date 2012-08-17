@@ -96,10 +96,4 @@ main = ->
         return
     return
 
-test = ->
-    root.initialize()
-    root.cake.render()
-    return
-
 main()
-#test()
